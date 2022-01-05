@@ -1,4 +1,4 @@
-# André Castro
+## André Castro
 Software Engineer - focus on ontology / knowledge graph development
 
 <table><tr><td valign="top" width="50%">
