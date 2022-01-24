@@ -15,6 +15,7 @@ Software Engineer - focus on ontology / knowledge graph development
 * [ontology2smw](https://github.com/TIBHannover/ontology2smw) - 🐍 cli for automating an RDF ontology import into Semantic Mediawiki]
   * [📼 SMWCon 2020 talk](https://www.youtube.com/watch?v=AQfJL-i6s88)
 * [confiDent-dataimports](https://github.com/TIBHannover/confiDent-dataimports) - 🐍 cli for the [confiDent project](https://projects.tib.eu/en/confident/) to import external sources of Scientific Events instances to Semantic Mediawiki. 
+* [SPARQL cheatsheet](https://github.com/andrecastro0o/SPARQL-cheatsheet)
 
 </td></tr>
 <tr><td valign="top" width="50%">
