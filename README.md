@@ -1,38 +1,32 @@
 ## André Castro
-Software Engineer - focus on ontology / knowledge graph development
+*Knowledge and Data Engineer. Data Manager at [ruisdael-observatory](https://github.com/ruisdael-observatory) (TU-Delft)*
 
-<table><tr><td valign="top" width="50%">
 
-### 🍱 Vagrant boxes - install & configure software with Ansible on VMs
-* [Fuseki triple store](https://github.com/NFDI4Chem/Fuseki-Box)
-* [CKAN - data repository](https://github.com/TIBHannover/LSK-CKAN-Box)
-* [Semantic Mediawiki](https://github.com/TIBHannover/LSK-Semantic-Mediawiki-Box)
-* [cookiecutter for the creation of Vagrant boxes](https://github.com/TIBHannover/cookiecutter-for-vagrant-boxes) 🍪
-  
-</td><td valign="top" width="50%">
-  
+- 📫 a.i.castroATtudelft.nl 
+- :octocat: andrecastro0o
+
+## Data Repositories
+* [disdroDL - OTT Parsivel2 optical disdrometer datalogger](https://github.com/ruisdael-observatory/disdroDL)
+
+
+## Knowledege Graphs and Ontologies Repositories 
+
 ### 🗜️ Tools for Ontology & Knowledge Graph management 
 * [ontology2smw](https://github.com/TIBHannover/ontology2smw) - 🐍 cli for automating an RDF ontology import into Semantic Mediawiki]
   * [📼 SMWCon 2020 talk](https://www.youtube.com/watch?v=AQfJL-i6s88)
 * [confiDent-dataimports](https://github.com/TIBHannover/confiDent-dataimports) - 🐍 cli for the [confiDent project](https://projects.tib.eu/en/confident/) to import external sources of Scientific Events instances to Semantic Mediawiki. 
 * [SPARQL cheatsheet](https://github.com/andrecastro0o/SPARQL-cheatsheet)
 
-</td></tr>
-<tr><td valign="top" width="50%">
+### 🍱 Vagrant boxes - install & configure software with Ansible on VMs
+* [Fuseki triple store](https://github.com/NFDI4Chem/Fuseki-Box)
+* [CKAN - data repository](https://github.com/TIBHannover/LSK-CKAN-Box)
+* [Semantic Mediawiki](https://github.com/TIBHannover/LSK-Semantic-Mediawiki-Box)
+* [cookiecutter for the creation of Vagrant boxes](https://github.com/TIBHannover/cookiecutter-for-vagrant-boxes) 🍪
 
-### 🖇️ Ontology development & contritions
-* [DFG Classification of Subject Areas Ontology (DFGFO)](https://github.com/tibonto/DFG-Fachsystematik-Ontology)
-* [Machine and Tool Ontology (MATO)](https://github.com/tibonto/mato)
-* [Academic Event Ontology (AEON)](https://github.com/tibonto/aeon)
-
-</td>
-<td valign="top" width="50%">
-  
 ### 🧮 Prototypes
-* [Jupyter notebooks Prototypes](https://github.com/NFDI4Chem/Semantics-Prototypes) for integrating semantics into NFID4Chem
+* [Jupyter notebooks Prototypes](https://github.com/NFDI4Chem/Semantics-Prototypes) for integrating OLS ontologies into NFID4Chem
 
-</td></tr>
-</table>
+ 
 
 <!--
 **andrecastro0o/andrecastro0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
