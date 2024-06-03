@@ -4,6 +4,30 @@
 
 - 📫 a.i.castroATtudelft.nl 
 - :octocat: andrecastro0o
+- <a href="https://orcid.org/0000-0002-7839-3698" width="16" height="16" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" border="0" alt="ORCID logo"></a> 0000-0002-7839-3698
+---
+
+Olá! My name is André Castro (he/him). I am a software practitioner
+working within knowledge and data management, for scientific research. Currently, I am a data manager for the [*Ruisdael
+Observatory*](https://ruisdael-observatory.nl/) (TU-Delft). 
+
+From 2020 to 2022 I took on the role of knowledge engineer at the German
+National Library of Science and Technology, in the domains of chemistry
+([*NFDI4Chem*](https://www.nfdi4chem.de/)), cultural and heritage
+([*NFDI4Culture*](https://nfdi4culture.de/index.html)).
+
+Between 2013 and 2020, I tutored at the [*Experimental
+Publishing*](https://xpub.nl/) program at the Piet Zwart Art Institute,
+teaching prototyping classes (focused on python and Linux-based
+systems), and coaching students through their graduation projects.
+And through the years I worked as a software developer for TVT/DMC and
+artists, Lawrence Abu Hamdan, Rana Hamadeh, and Renée Turner.
+
+In 2013 I graduated from the Master of Media Design and Communication at
+the Piet Zwart Institute, and in 2007, from the Sonic Arts BA program at
+Middlesex University.
+
+---
 
 ## Scientific Research Software
 * [disdroDL - OTT Parsivel2 optical disdrometer datalogger](https://github.com/ruisdael-observatory/disdroDL)
