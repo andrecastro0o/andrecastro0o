@@ -1,5 +1,5 @@
 ## André Castro
-*Knowledge and Data Engineer. Data Manager at [Ruisdael-Observatory](https://github.com/ruisdael-observatory) (TU-Delft)*
+*Data Manager at [Ruisdael-Observatory](https://github.com/ruisdael-observatory) (TU-Delft)*
 
 
 - 📫 a.i.castroATtudelft.nl 
