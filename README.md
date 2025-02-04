@@ -1,27 +1,29 @@
 ## André Castro
-*Data Manager at [Ruisdael-Observatory](https://github.com/ruisdael-observatory) (TU-Delft)*
+*Senior developer and Integration Systems Team lead, at [Digital Archiving and Networking Service (DANS)](https://dans.knaw.nl/)*
 
-
-- 📫 a.i.castroATtudelft.nl 
+- 📫 andre.castro[AT]dans.knaw.nl
 - :octocat: andrecastro0o
 - <a href="https://orcid.org/0000-0002-7839-3698" width="16" height="16" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" border="0" alt="ORCID logo"></a> 0000-0002-7839-3698
+
 ---
 
 Olá! My name is André Castro (he/him). I am a software practitioner
-working within knowledge and data management, for scientific research. Currently, I am a data manager for the [*Ruisdael
-Observatory*](https://ruisdael-observatory.nl/) (TU-Delft). 
+working within knowledge and data management, for scientific research.
+
+I am a senior developer and lead of the Integration Systems Team, at [Digital Archiving and Networking Service (DANS)](https://dans.knaw.nl/)
+
+Between 2022 and 2024 I worked as data manager for the large scale research infrastructure [*Ruisdael
+Observatory*](https://ruisdael-observatory.nl/), at TU-Delft. 
 
 From 2020 to 2022 I took on the role of knowledge engineer at the German
 National Library of Science and Technology, in the domains of chemistry
-([*NFDI4Chem*](https://www.nfdi4chem.de/)), cultural and heritage
+([*NFDI4Chem*](https://www.nfdi4chem.de/)), and cultural heritage
 ([*NFDI4Culture*](https://nfdi4culture.de/index.html)).
 
-Between 2013 and 2020, I tutored at the [*Experimental
-Publishing*](https://xpub.nl/) program at the Piet Zwart Art Institute,
-teaching prototyping classes (focused on python and Linux-based
-systems), and coaching students through their graduation projects.
-And through the years I worked as a software developer for TVT/DMC and
-artists, Lawrence Abu Hamdan, Rana Hamadeh, and Renée Turner.
+I tutored at the [*Experimental
+Publishing*](https://xpub.nl/) program at the Piet Zwart Art Institute, Between 2013 and 2020.
+I tought prototyping classes (focused on python and Linux-based
+systems), and coached students through their graduation projects.
 
 In 2013 I graduated from the Master of Media Design and Communication at
 the Piet Zwart Institute, and in 2007, from the Sonic Arts BA program at
