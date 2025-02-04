@@ -1,5 +1,5 @@
 ## André Castro
-*Senior developer and Integration Systems Team lead, at [Digital Archiving and Networking Service (DANS)](https://dans.knaw.nl/)*
+*Senior developer and Integration Systems Team lead at [Digital Archiving and Networking Service (DANS)](https://dans.knaw.nl/)*
 
 - 📫 andre.castro[AT]dans.knaw.nl
 - :octocat: andrecastro0o
