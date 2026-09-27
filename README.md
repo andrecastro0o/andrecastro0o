@@ -31,6 +31,10 @@ Middlesex University.
 
 ---
 
+### Vocabularies
+* [AAT-Concepts - a slim of Getty Art & Architecture Theasurus ](https://github.com/DANS-KNAW/Getty-AAT-Concepts)
+* [DFG Classification of Scientific Disciplines, Research Areas, Review Boards and Subject Areas ](https://github.com/andrecastro0o/DFG-Fachsystematik-Ontology) -
+
 ## Scientific Research Software
 * [disdroDL - OTT Parsivel2 optical disdrometer datalogger](https://github.com/ruisdael-observatory/disdroDL)
 
@@ -42,9 +46,6 @@ Middlesex University.
   * [📼 SMWCon 2020 talk](https://www.youtube.com/watch?v=AQfJL-i6s88)
 * [confiDent-dataimports](https://github.com/TIBHannover/confiDent-dataimports) - 🐍 cli for the [confiDent project](https://projects.tib.eu/en/confident/) to import external sources of Scientific Events instances to Semantic Mediawiki. 
 
-### Ontologies
-* [DFG Classification of Scientific Disciplines, Research Areas, Review Boards and Subject Areas ](https://github.com/andrecastro0o/DFG-Fachsystematik-Ontology) -
-  
 ### 🍱 Vagrant boxes - install & configure software with Ansible on VMs
 * [Fuseki triple store](https://github.com/NFDI4Chem/Fuseki-Box)
 * [CKAN - data repository](https://github.com/TIBHannover/LSK-CKAN-Box)
